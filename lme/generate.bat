@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --name app --add-data "gway\\dist;gway\\dist" nexus/main.py
